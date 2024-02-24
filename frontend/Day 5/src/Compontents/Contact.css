@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
+.contact-page {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    margin-right: 100px;
+    margin-top: 200px;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  label {
+    margin-bottom: 8px;
+  }
+  
+
+  
+  button:hover {
+    background-color: #a5a5a5;
+  }
+  .gg{
+    
+        display: flex;
+        padding-bottom: 100px;
+        flex-direction: column;
+        margin-top: -350px;
+        margin-left: 100px;
+      
+  }
+  .firstin{
+    display: flex;
+    gap: 20px;
+  }
+  .rr{
+    display: flex;
+    flex-direction: column;
+    height: 30px;
+    width: 235px;
+    gap: 30px;
+    font-family: 'poppins';
+    
+  }
+  .secin input{
+    height: 200px;
+    margin-left: 15px;
+  }
+  .tt{
+    height: 25vh;
+  }
+  .pp{
+    height: 300px;
+    width: 500px;
+    margin-left: -140px;
+  }
+  .uu{
+    margin-left: 200px;
+    margin-top: 40px;
+    height: 40px;
+    width: 80px;
+    align-items:center;
+    padding-left: 7PX;
+  }
+  .ee{
+    margin-left: 130px;
+    padding-top: 150px;
+    margin-top: -40px;
+    font-family: 'poppins';
+    color: azure;
+    
+  }
+  .k{
+    background-image: url('https://media.istockphoto.com/id/185005145/photo/dark-texture-background-of-black-fabric.jpg?s=2048x2048&w=is&k=20&c=9TXNQB_ouEsTnzNGPFTSZA-3jbXG594AAiBbYcMfHlE=');
+  }
