@@ -1,0 +1,76 @@
+/* BoxComponent.css */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
+.ac1{
+  display: flex;
+  padding-left: 400px;
+    align-items: center;
+    /* color: #050000; */
+
+  
+}
+.ak{
+  color: skyblue;
+}
+.box5 {
+  transition: box-shadow .3s;
+  width: 150px;
+  height: 150px;
+  /* border: 2px solid #333; */
+  padding: 20px;
+  margin: 20px;
+  background-color: #dfd8d8f8;
+  text-align: center;
+  box-shadow: 0 0 10px rgba(99, 96, 96, 0.1);
+  transition: background-color 0.3s ease; 
+  /* margin-left: 300px;
+  gap: 10px; */
+  
+}
+/* .box {
+  
+  transition: box-shadow .3s;
+  width: 300px;
+  height: 500px;
+  margin: 50px;
+  border-radius:10px;
+  border: 1px solid #ccc;
+  background: #fff;
+  float: left;
+  
+} */
+.box5:hover {
+  box-shadow: 0 0 100px rgba(33,33,33,.2); 
+}
+
+/* Hover effect */
+/* .box:hover {
+  background-color: #102e01;
+} */
+
+/* Optional: Add styles for the heading and paragraph inside the box */
+.box5 h2 {
+  color: #050000;
+  padding-top: 0%;
+}
+
+.box5 p{
+  color: #666;
+}
+
+.jaggu{
+  margin-top:50px;
+}
+.assu{
+    color: azure;
+}
+.ac1 a
+{
+  color: #050000;
+}
+.po{
+  color: rgb(255, 255, 255);
+}
+.nv{
+  background-color: #050000;
+  height: 100vh;
+}

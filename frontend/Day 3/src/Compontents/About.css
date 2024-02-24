@@ -1,0 +1,40 @@
+/* AboutPage.css */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
+.bod{
+  justify-content: center;
+  align-items: center;
+  width:50%;
+  background: none;
+}
+.abi{
+  padding-top: 110px;
+  margin-left: 70px;
+  
+}
+.top{
+  display: flex;
+  height: 100vh;
+}
+
+.about-container {
+  width: 50%;
+  padding-top: 300px;
+  background-color: #f0f0f0;
+  /* border: 2px solid #ccc; */
+  border-radius: 8px;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  /* box-shadow: 0 0 50px rgba(0, 0, 0, 0.1); */
+  /* margin-top: 200px; */
+
+}
+
+.about-container h1 {
+  color: #333;
+}
+
+.about-container p {
+  color: #666;
+  line-height: 1.6;
+}
