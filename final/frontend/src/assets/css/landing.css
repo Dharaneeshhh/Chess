@@ -1,0 +1,70 @@
+.l__full{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  /* background-color: #f51717; */
+  background-image: url('../images/checked.jpg');
+  transition: background-color 0.3s ease;
+      
+}
+.l__container {
+    max-width: 800px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    background: linear-gradient(135deg, #ffffff, #f9f9f9);
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  }
+  
+  .l__header {
+    text-align: center;
+    margin-bottom: 40px;
+  }
+  
+  .l__about, .l__services, .l__login-signup {
+    margin-bottom: 40px;
+  }
+  
+  h1, h2 {
+    margin-bottom: 20px;
+  }
+  
+  p {
+    line-height: 1.6;
+  }
+  
+  ul {
+    padding-left: 20px;
+  }
+  
+  .button-container {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .button {
+    margin: 0 10px;
+    padding: 12px 24px;
+    text-decoration: none;
+    color: #fff;
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .button:hover {
+    background-color: #022651;
+  }
+  
+  footer {
+    text-align: center;
+    margin-top: 40px;
+    color: #888;
+  }
+  

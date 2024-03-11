@@ -1,0 +1,22 @@
+.enow{
+    background-color: black;
+}
+.course_det{
+   
+    margin-top: 50px;
+    margin-left:auto; 
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between; 
+    
+    
+}
+.whole{
+    height: 100vh;
+    width: 100vw;
+    background-color: antiquewhite;
+    overflow-x: hidden;
+}
+.card_space{
+    margin: 2rem;
+}

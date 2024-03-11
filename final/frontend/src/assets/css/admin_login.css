@@ -1,0 +1,14 @@
+.admin__container{
+    margin-top: 10%;
+    margin-left: 35%;
+    border-style: dotted;
+    height: 300px;
+    width: 400px;
+}
+.admin__in{
+    margin-left: 40px;
+    margin-top: 50px;
+}
+.admin__btn{
+    margin-left: 120px;
+}

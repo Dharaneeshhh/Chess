@@ -1,0 +1,60 @@
+/* main{
+    background-color: azure;
+} */
+
+@keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+  
+  body {
+    animation: fadeIn 1s ease forwards;
+  }
+
+  body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+body {
+    background: linear-gradient(to bottom, rgba(255,255,255,0.15) 0%, rgba(0,0,0,0.15) 100%), radial-gradient(at top center, rgba(255,255,255,0.40) 0%, rgba(0,0,0,0.40) 120%);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+  
+.slider{
+    margin-left: 19%;
+    margin-top: 10px;
+    background-size: cover;
+
+}
+.menubar{
+    justify-content: center;
+    display:block;
+    gap: 20px;
+    color: white;
+}
+
+.play{
+    border: 2px solid;
+    background-clip: padding-box;
+    padding: 20px;
+    color: #080808;
+    transition: border-color 0.3s ease;
+}
+.play :hover{
+    border-color: #3498db;
+}
+ p {
+  color: #080808;
+ }
+ h4 {
+  color: #080808;
+ }

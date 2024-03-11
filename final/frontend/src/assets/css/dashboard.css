@@ -1,0 +1,12 @@
+.dash__container{
+    display: flex;
+}
+.count{
+    display: block;
+    margin-left: 20px;
+    margin-top: 10vh;
+}
+.side{
+    display: flex;
+    
+}

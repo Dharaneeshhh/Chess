@@ -1,0 +1,13 @@
+.profile__head{
+    margin-top: 30px;
+    margin-left:45% ;
+}
+.profile__container{
+    margin-top: 30px;
+    margin-left:30% ;
+}
+.profile__para{
+    font-size: 25px;
+    font-weight: 500;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
